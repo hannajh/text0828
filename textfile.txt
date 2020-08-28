@@ -1,0 +1,7 @@
+깃허브 연습 두번째
+더조은 아카데미
+오늘은 어제보다 날씨가 좋아서다행이다
+portfolio 입력상태는 i또는 a를 눌러서 끼워넣기
+
+여기서부터 추가되는 내용
+web publishing javascript&jQuery
